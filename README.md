@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Wecome to ATL dpsr
+ATL is an approach of Central government of India to create an environment of scientific temperament, innovation, creativity amongst Indian Students. It is a step towards a new India.
 
-You can use the [editor on GitHub](https://github.com/atl-dpsr/atl-dpsr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Since the last few decades, our education system has seen a paradigm shift. Today, with this approach of inculcating Hands on Methodology in the current education scenario we have resolved the need of the hour.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ATL lab would teach students essential 21st-century skills which will help them in developing their professional and personal skills. Skilled India is the need of the hour and each step taken this dream should be welcomed and we should work towards it together for a better India.
 
-### Markdown
+ATL dpsr is just a small part of a larger government scheme **Atal Innovation Mission** by the NITI Ayog. We conduct weekly workshops and competitions every year to keep up with the innovative ideas of the children. Fill in the [form](https://forms.gle/CygDguNNFMdjK6od8) to join us.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atl-dpsr/atl-dpsr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Subscribe to our weekly [newsletter](https://forms.gle/afxB9NpATrKEC8s7A) to get the latest updates about our workshops, competitions, seminars and more.  
+Created by [@Rishit-Pandit](https://github.com/rishit-pandit)
