@@ -1,4 +1,4 @@
-# Wecome to ATL dpsr
+# Welcome to ATL dpsr
 ATL is an approach of Central government of India to create an environment of scientific temperament, innovation, creativity amongst Indian Students. It is a step towards a new India.
 
 Since the last few decades, our education system has seen a paradigm shift. Today, with this approach of inculcating Hands on Methodology in the current education scenario we have resolved the need of the hour.
